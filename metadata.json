@@ -1,0 +1,6 @@
+{
+  "name": "3D Creator Portfolio",
+  "description": "A 3D creator landing page for Jack featuring animated 3D projects, horizontal scrolling, and a dark themed UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
